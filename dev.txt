@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my is master branch
+=======
+my is dev branch
+>>>>>>> dev
